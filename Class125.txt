@@ -1,0 +1,14 @@
+Create An API with the POST request 
+Create a classifier model 
+Send data through the API to the classifier to make predictions
+
+---------------------------------------------------------------
+
+Steps :
+1) Import all the dependencies/libraries 
+2) Get the data to train and test the model 
+3) Split the data to train and test the model 
+4) Scale the data to make it of equal size 
+5) Fit the data into logistic regression model 
+6) Make diiferent predictions 
+7) 
